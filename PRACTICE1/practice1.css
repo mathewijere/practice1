@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+  height: 500vh;
+  background: rgb(226, 119, 43);
+  align-items: center;
+  border-radius: ;
+}
+.parent {
+  border: 10px double;
+  background: aquamarine;
+  padding: 50px;
+  margin: 100px;
+  border-radius: 50px;
+}
+img {
+  border-radius: 8px;
+}
+</style>
+</head>
+<body>
+
+<h2>Rounded Image</h2>
+
+<p>Use the border-radius property to create rounded images:</p>
+
+<img src="paris.jpg" alt="Paris" width="300" height="300">
+
